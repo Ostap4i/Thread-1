@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Thread-1\Thread-1\bin\Debug\net8.0\Thread-1.exe
+C:\Users\Admin\source\repos\Thread-1\Thread-1\bin\Debug\net8.0\Thread-1.deps.json
+C:\Users\Admin\source\repos\Thread-1\Thread-1\bin\Debug\net8.0\Thread-1.runtimeconfig.json
+C:\Users\Admin\source\repos\Thread-1\Thread-1\bin\Debug\net8.0\Thread-1.dll
+C:\Users\Admin\source\repos\Thread-1\Thread-1\bin\Debug\net8.0\Thread-1.pdb
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.dll
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\refint\Thread-1.dll
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.pdb
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\Thread-1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Thread-1\Thread-1\obj\Debug\net8.0\ref\Thread-1.dll
